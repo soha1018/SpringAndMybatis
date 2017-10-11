@@ -1,0 +1,11 @@
+[INFO] [2017-10-11 10:06:18][org.springframework.beans.factory.xml.XmlBeanDefinitionReader]Loading XML bean definitions from class path resource [spring-mybatis.xml]
+  [INFO] [2017-10-11 10:06:18][org.springframework.context.support.GenericApplicationContext]Refreshing org.springframework.context.support.GenericApplicationContext@9629756: startup date [Wed Oct 11 10:06:18 CST 2017]; root of context hierarchy
+  [INFO] [2017-10-11 10:06:19][org.springframework.beans.factory.config.PropertyPlaceholderConfigurer]Loading properties file from class path resource [jdbc.properties]
+  [INFO] [2017-10-11 10:06:19][org.springframework.beans.factory.annotation.AutowiredAnnotationBeanPostProcessor]JSR-330 'javax.inject.Inject' annotation found and supported for autowiring
+  [INFO] [2017-10-11 10:06:19][org.springframework.context.support.GenericApplicationContext]Closing org.springframework.context.support.GenericApplicationContext@9629756: startup date [Wed Oct 11 10:06:18 CST 2017]; root of context hierarchy
+  [INFO] [2017-10-11 10:07:42][org.springframework.beans.factory.xml.XmlBeanDefinitionReader]Loading XML bean definitions from class path resource [spring-mybatis.xml]
+  [INFO] [2017-10-11 10:07:42][org.springframework.context.support.GenericApplicationContext]Refreshing org.springframework.context.support.GenericApplicationContext@9629756: startup date [Wed Oct 11 10:07:42 CST 2017]; root of context hierarchy
+  [INFO] [2017-10-11 10:07:42][org.springframework.beans.factory.config.PropertyPlaceholderConfigurer]Loading properties file from class path resource [jdbc.properties]
+  [INFO] [2017-10-11 10:07:42][org.springframework.beans.factory.annotation.AutowiredAnnotationBeanPostProcessor]JSR-330 'javax.inject.Inject' annotation found and supported for autowiring
+  [INFO] [2017-10-11 10:07:43][org.springframework.context.support.GenericApplicationContext]Closing org.springframework.context.support.GenericApplicationContext@9629756: startup date [Wed Oct 11 10:07:42 CST 2017]; root of context hierarchy
+  
